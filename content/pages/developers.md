@@ -119,3 +119,6 @@ http://facebook.com/sudeep.sharma2052)
 
 - **Utsav Ratna Tuladhar**  
 [Email](mailto:utsav.ratna@gmail.com) | [Github](https://github.com/UtsavRatna) | [Linkedin](https://www.linkedin.com/in/utsav-ratna-tuladhar-b74735119/) | [Website](http://utsavratna33.azurewebsites.net) 
+
+- **Yaghyesh Ghimire**  
+[Email](mailtto:yaghyesh52@gmail.com) | [Github](https://github.com/decipher6) | [Linkedin](https://www.linkedin.com/in/yaghyesh-ghimire-092215189/)
